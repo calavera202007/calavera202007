@@ -26,8 +26,8 @@
 
 ## 🤔 👨‍💻 Sobre mí
 
-Hey there! 👋<br/>
-¡Hola! Soy Andrés Felipe Porras Garzón, un apasionado programador con experiencia en desarrollo de software, gestión de plataformas cloud y administración de bases de datos. Me encanta enfrentar nuevos desafíos tecnológicos y seguir aprendiendo cada día para mejorar mis habilidades y contribuir de manera significativa a los proyectos en los que participo.
+<br/>
+¡Hola! Soy  Andrés Felipe Porras Garzón 👋, un apasionado programador con experiencia en desarrollo de software, gestión de plataformas cloud y administración de bases de datos. Me encanta enfrentar nuevos desafíos tecnológicos y seguir aprendiendo cada día para mejorar mis habilidades y contribuir de manera significativa a los proyectos en los que participo.
 
 
 🔹 Lenguajes de programación: Python, Java, JavaScript, C++ y C#
