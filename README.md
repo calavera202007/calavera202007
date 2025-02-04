@@ -110,9 +110,6 @@ Si estás buscando a alguien con una gran energía, pasión por la tecnología y
 ## ⚙️ Análisis de GitHub
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calavera202007&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
 
 <div style="text-align: center;">
   <table style="margin: 0 auto;">
